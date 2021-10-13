@@ -10,6 +10,8 @@ Collect some related resources of NVIDIA Isaac Gym
 
 - [Isaac gym forum](https://forums.developer.nvidia.com/c/agx-autonomous-machines/isaac/isaac-gym/322)
 
+- [Isaac_github](https://github.com/nvidia-isaac)
+
 - [Isaac Sim GTC 2021, sim-to-real](https://www.nvidia.com/en-us/on-demand/session/gtcspring21-s31824/)
 
 - [Isaac Sim video toturials](https://www.youtube.com/playlist?list=PL3jK4xNnlCVf1SzxjCm7ZxDBNl9QYyV8X)
